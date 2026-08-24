@@ -1,3 +1,6 @@
 # Ignore PDF files (CV / Resumes)
 *.pdf
 "Shavindu gayashan CV.pdf"
+
+# Internal project map — never commit
+project_map.md
